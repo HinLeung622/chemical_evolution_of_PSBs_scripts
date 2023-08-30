@@ -1,4 +1,4 @@
-# Publicly available scripts associated with the Leung et al. 2023
+# Publicly available scripts associated with Leung et al. 2023
 Link to paper: Link goes here
 
 This repository contains 4 scripts in the folder `scripts`. Three of which are used to reproduce figures 7, 8 and 9 of the paper, while the last script is a demonstration of how to use `Bagpipes` to perform one of the fits following the method detailed in the paper.
