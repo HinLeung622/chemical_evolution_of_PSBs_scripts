@@ -1,9 +1,9 @@
 # Publicly available scripts associated with Leung et al. 2023
-Link to paper: Link goes here
+Link to paper: https://doi.org/10.1093/mnras/stae225
 
 This repository contains 4 scripts in the folder `scripts`. Three of which are used to reproduce figures 7, 8 and 9 of the paper, while the last script is a demonstration of how to use `Bagpipes` to perform one of the fits following the method detailed in the paper.
 
-Some of the data required for these scripts are not stored here. They can be found at [link to pure website]. After downloading files from there, the file struction should look like the following:
+Some of the data required for these scripts are not stored here. They can be found at https://doi.org/10.17630/ac0b406c-1c59-41e6-8b73-026790a0c1ca. After downloading files from there, the file struction should look like the following:
 ```
 .
 ├── data
